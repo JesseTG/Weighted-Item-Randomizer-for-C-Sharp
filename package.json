@@ -1,8 +1,18 @@
 {
   "name": "com.blueraja.weighted-item-randomizer-for-c-sharp",
   "displayName": "Weighted Item Randomizer for C#",
-  "version": "1.0.3",
-  "unity": "2018.1",
-  "description": "This library can be used for simulating any non-uniform (or uniform!) discrete probability distribution.",
-  "category": ""
+  "version": "1.0.4",
+  "description": "Weighted Item Randomizer for C# can be used for:\n\n- Simulating biased dice or coins\n- Random outcomes in video games\n- Randomly selecting a user, but giving preference to users who haven't been selected recently.\n- Creating an AI which is randomized, yet still able to make smart decisions.\n- Simulating any other non-uniform (or uniform!) discrete probability distribution\n\nThis library was originally created by Daniel \"BlueRaja\" Pflughoeft and released under the MIT license. This fork adds UPM compatibility, but does not offer new features.",
+  "keywords": [
+    "distribution",
+    "probability",
+    "random",
+    "uniform",
+    "discrete"
+  ],
+  "author": {
+    "name": "Jesse Talavera-Greenberg",
+    "email": "director@corundum.games",
+    "url": "https://corundum.games"
+  }
 }
