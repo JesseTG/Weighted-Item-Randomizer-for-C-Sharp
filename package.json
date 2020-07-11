@@ -1,0 +1,8 @@
+{
+  "name": "com.blueraja.weighted-item-randomizer-for-c-sharp",
+  "displayName": "Weighted Item Randomizer for C#",
+  "version": "1.0.3",
+  "unity": "2018.1",
+  "description": "This library can be used for simulating any non-uniform (or uniform!) discrete probability distribution.",
+  "category": ""
+}
